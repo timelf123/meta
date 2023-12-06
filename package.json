@@ -47,7 +47,7 @@
     "nprogress": "^0.1.6",
     "page": "^1.5.0",
     "qs": "^2.3.3",
-    "react": "^0.12.2",
+    "react": "^15.0.0",
     "react-router": "^0.11.6",
     "react-spinner": "^0.1.9",
     "reactify": "^0.17.1",
